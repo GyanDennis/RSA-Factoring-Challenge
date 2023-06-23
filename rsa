@@ -1,7 +1,14 @@
-It's not possible to factor a large RSA number in less than 5 seconds using standard methods, especially if the factors p and q are guaranteed to be prime.
-
-The security of RSA relies on the difficulty of factoring large composite numbers into their prime factors. The RSA numbers used in practice are typically hundreds of digits long, and factoring them requires sophisticated algorithms and significant computational resources.
-
-In fact, the security of RSA is based on the assumption that factoring large composite numbers into their prime factors is a computationally hard problem. If it were easy to factor large numbers, then RSA would be insecure.
-
-Therefore, it's unlikely that we can factor a large RSA number into its prime factors in less than 5 seconds using standard methods.
+4
+12
+34
+128
+1024
+4958
+1718944270642558716715
+9
+99
+999
+9999
+9797973
+49
+239809320265259
